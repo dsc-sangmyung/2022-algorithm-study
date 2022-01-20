@@ -1,6 +1,8 @@
 # 2022-algorithm-study
-**[2022 GDSC Sangmyung] Study With Us(알고리즘/cs 스터디)를 위한 저장소 입니다.
-스터디는 <https://www.youtube.com/c/BaaarkingDog>를 토대로 진행합니다. 
+
+**알고리즘/cs 스터디**를 위한 저장소 입니다. </br>
+스터디는 <https://www.youtube.com/c/BaaarkingDog>를 토대로 진행합니다.
+
 ---
 ## 📚스터디 방식
 ### 📋커리큘럼
