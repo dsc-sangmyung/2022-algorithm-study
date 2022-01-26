@@ -41,4 +41,8 @@
   * [ETC] - 그외
 4. 마지막으로 master branch에 Pull Request해주시면 됩니다. PR은 ```[깃허브아이디] 22 GDSC algorithm-study_1주차```
 5. 해당 주차 담당자는 '사진, 글로 정리한 알고리즘 개념 + 바킹독 실전 알고리즘 문제집에 있는 필수 문제 '를 리드미에 작성해주세요.(예시. ```문제: [플랫폼] 문제번호/문제이름(티어)```)
+<<<<<<< HEAD
 6. commit 규칙 (예시. ```[깃허브아이디] 22 GDSC algorithm-studty_1주차 ```)
+=======
+6. commit 규칙 (예시. ```22-GDSC algorithm-studty_1주차 ```)
+>>>>>>> main
