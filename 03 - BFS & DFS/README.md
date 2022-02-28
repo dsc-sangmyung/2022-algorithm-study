@@ -2,6 +2,7 @@
 ## BFS(Breadth First Search)
 : 다차원 배열에서 각 칸을 방문할 때 너비를 우선으로 방문하는 알고리즘
 
+![ex1](https://user-images.githubusercontent.com/74299463/155998430-be4131e7-0777-4c13-ba4a-2cb62db2c6ad.png)
 
 ### 파란색 칸 방문하는 과정
 1. 시작하는 칸을 큐에 넣고 방문했다는 표시를 남김
@@ -54,6 +55,8 @@ int main(void) {
 
 ## DFS(Depth First Search)
 : 다차원 배열에서 각 칸을 방문할 때 깊이를 우선으로 방문하는 알고리즘
+
+![ex2](https://user-images.githubusercontent.com/74299463/155998478-933298f6-87c7-4569-8598-1aed7aa38ce9.png)
 
 ### 파란색 칸 방문하는 과정
 1. 시작하는 칸을 스택에 넣고 방문했다는 표시를 남김
